@@ -8,7 +8,7 @@ public class Artikel {
 	private double verkaufspreisInEuro;
 	private int sollBestand;
 	private int istBestand;
-	// Methoden
+	// Methodentest
 
 	public Artikel() {
 
